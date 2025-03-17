@@ -42,4 +42,7 @@ public class Answer {
     public void setText(String text) {
         this.text = text;
     }
+
+    public Question get(int i) {
+    }
 }
