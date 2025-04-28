@@ -1,4 +1,4 @@
-package at.spengergasse.entities;
+package at.spengergasse;
 
 public class Start {
     public static void main(String[] args) {

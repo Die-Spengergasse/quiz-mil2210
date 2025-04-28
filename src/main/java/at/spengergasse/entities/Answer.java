@@ -43,6 +43,4 @@ public class Answer {
         this.text = text;
     }
 
-    public Question get(int i) {
-    }
 }

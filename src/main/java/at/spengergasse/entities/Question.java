@@ -43,4 +43,8 @@ public class Question {
     public List<Answer> getAnswersList() {
         return answersList;
     }
+
+    public void setAnswersList(List<Answer> answersList) {
+        this.answersList = answersList;
+    }
 }
